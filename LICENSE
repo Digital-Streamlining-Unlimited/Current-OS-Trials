@@ -1,6 +1,6 @@
-                                 Apache License
-                           Version 2.0, January 2004
-                        http://www.apache.org/licenses/
+                            Modified Apache License
+                           Version 2.01a, June 2017
+   For the Original:    http://www.apache.org/licenses/
 
    TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
 
@@ -127,14 +127,24 @@
       reproduction, and distribution of the Work otherwise complies with
       the conditions stated in this License.
 
-   5. Submission of Contributions. Unless You explicitly state otherwise,
-      any Contribution intentionally submitted for inclusion in the Work
-      by You to the Licensor shall be under the terms and conditions of
-      this License, without any additional terms or conditions.
-      Notwithstanding the above, nothing herein shall supersede or modify
-      the terms of any separate license agreement you may have executed
-      with Licensor regarding such Contributions.
-
+   5. Submission of Contributions. All code made to enhance or modify the
+      processes involved in the NON-DISCLOSURE AGREEMENT warning folders
+      will not be considered free works suitable for applying to the
+      un-Modified Apache License described in the title of this document.
+      ALL code changes to this project will be considered the intellectual
+      property of the owners of the Non-Disclosure Agreement placed in c/o
+      Dan Gahlinger and Marc Hurst.
+      
+      Legal Protection of processes and methods discussed in the
+      CONFIDENTIAL folders will be considered in full effect upon review
+      or use of those methods and processes discribed. Individuals or
+      representatives of legal powers of attorney for the individuals
+      protected by the Non-Disclosure Agreement will be authorized to
+      prosecute any copyright violation, or intellectual property theft
+      to the fullest extend of the law. Special prejudice is to be taken
+      into consideration of national security violations from abuse of
+      this code.
+      
    6. Trademarks. This License does not grant permission to use the trade
       names, trademarks, service marks, or product names of the Licensor,
       except as required for reasonable and customary use in describing the
